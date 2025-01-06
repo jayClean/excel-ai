@@ -1,6 +1,6 @@
 # React App with Vite
 
-This is a React application bootstrapped with [Vite](https://vitejs.dev/). It includes commonly used libraries and tools for building modern web applications.
+This is a React application bootstrapped with [Vite](https://vitejs.dev/).
 
 ---
 
